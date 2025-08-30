@@ -106,7 +106,7 @@
 
   .emgithub-file .file-meta {
     padding: 10px;
-    font-size: 12px;
+    font-size: 1rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
   }
 
@@ -221,8 +221,8 @@
   }
 
   .emgithub-file .code-area td.hljs-ln-line {
-    line-height: 21px;
-    font-size: 12px;
+    line-height: 1.5rem;
+    font-size: 1rem;
     font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
     border: 0;
   }
